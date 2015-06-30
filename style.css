@@ -1,0 +1,10 @@
+body {
+  font-size: 16px;
+  background-color: pink;
+  
+}
+
+.todo:hover, .todo.done {
+  cursor: pointer;
+  text-decoration: line-through;
+}
